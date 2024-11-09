@@ -1,5 +1,6 @@
 # transcription_project
 A repository for the digital transcription of scanned texts.
+Filenames to be formatted as follows: `[tag]_[author][year]`. E.g. `hainam1_desouza1903`.
 
 |Tag|Reference|
 |---|---|
